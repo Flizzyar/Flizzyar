@@ -1,16 +1,52 @@
-## Hi there 👋
+# Hi, I'm Felisia 👋
 
-<!--
-**Flizzyar/Flizzyar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend / JavaScript student currently learning full-stack development.
 
-Here are some ideas to get you started:
+I enjoy building interactive web applications using **JavaScript, Node.js, and APIs**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+### 🎲 Real-time Dice Game
+Multiplayer dice game using **Node.js, Socket.IO and MongoDB**.
+
+Repo:  
+https://github.com/Flizzyar/realtime-dice-game
+
+---
+
+### 🔐 JWT Authentication API
+Login and authentication backend built with **Node.js, Express and MongoDB**.
+
+Repo:  
+https://github.com/Flizzyar/login-backend
+
+---
+
+### 🎮 Clicker Game API
+Backend API for a browser clicker game built with **Node.js, Express, MongoDB and TypeScript**.  
+Stores player scores and provides a leaderboard.
+
+Repo:  
+https://github.com/Flizzyar/clicker-game-api
+
+---
+
+## 🧠 Technologies
+
+- JavaScript
+- Node.js
+- SQL
+- TypeScript
+- Express
+- MongoDB
+- Socket.IO
+- HTML
+- CSS
+
+---
+
+
+LinkedIn:  
+Your LinkedIn link here

@@ -12,7 +12,7 @@ I enjoy building interactive web applications using **JavaScript, Node.js, and A
 Multiplayer dice game using **Node.js, Socket.IO and MongoDB**.
 
 Repo:  
-https://github.com/Flizzyar/realtime-dice-game
+https://github.com/Flizzyar/socketio-dice-game
 
 ---
 
@@ -20,7 +20,7 @@ https://github.com/Flizzyar/realtime-dice-game
 Login and authentication backend built with **Node.js, Express and MongoDB**.
 
 Repo:  
-https://github.com/Flizzyar/login-backend
+https://github.com/Flizzyar/auth-api
 
 ---
 
@@ -29,7 +29,7 @@ Backend API for a browser clicker game built with **Node.js, Express, MongoDB an
 Stores player scores and provides a leaderboard.
 
 Repo:  
-https://github.com/Flizzyar/clicker-game-api
+https://github.com/Flizzyar/Clicker-Game-API
 
 ---
 

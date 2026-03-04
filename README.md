@@ -46,7 +46,3 @@ https://github.com/Flizzyar/Clicker-Game-API
 - CSS
 
 ---
-
-
-LinkedIn:  
-Your LinkedIn link here

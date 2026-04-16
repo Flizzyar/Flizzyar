@@ -7,7 +7,6 @@ I enjoy building interactive web applications using **React, Node.js, and TypeSc
 ## 🧠 Technologies
 
 - JavaScript
-- TypeScript
 - Node.js
 - SQL
 - TypeScript

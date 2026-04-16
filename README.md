@@ -1,41 +1,13 @@
 # Hi, I'm Felisia 👋
 
-Frontend / JavaScript student currently learning full-stack development.
+Fullstack student currently learning development.
 
-I enjoy building interactive web applications using **JavaScript, Node.js, and APIs**.
-
----
-
-## 🚀 Projects
-
-### 🎲 Real-time Dice Game
-Multiplayer dice game using **Node.js, Socket.IO and MongoDB**.
-
-Repo:  
-https://github.com/Flizzyar/socketio-dice-game
-
----
-
-### 🔐 JWT Authentication API
-Login and authentication backend built with **Node.js, Express and MongoDB**.
-
-Repo:  
-https://github.com/Flizzyar/auth-api
-
----
-
-### 🎮 Clicker Game API
-Backend API for a browser clicker game built with **Node.js, Express, MongoDB and TypeScript**.  
-Stores player scores and provides a leaderboard.
-
-Repo:  
-https://github.com/Flizzyar/Clicker-Game-API
-
----
+I enjoy building interactive web applications using **React, Node.js, and TypeScript**.
 
 ## 🧠 Technologies
 
 - JavaScript
+- TypeScript
 - Node.js
 - SQL
 - TypeScript
@@ -44,5 +16,5 @@ https://github.com/Flizzyar/Clicker-Game-API
 - Socket.IO
 - HTML
 - CSS
+- React
 
----
